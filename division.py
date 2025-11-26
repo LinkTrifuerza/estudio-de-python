@@ -1,0 +1,5 @@
+n1=int(input("Introduzca un primer numero"))
+n2=int(input("Introduzca un segundo numero"))
+cociente=int(n1/n2)
+resto= n1-(cociente*n2)
+print(cociente, resto)
